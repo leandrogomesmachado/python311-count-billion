@@ -17,7 +17,7 @@ Windows 11 version 22H2 build 22621.1702:
 ![image](https://github.com/machado-rev/python311-count-billion/assets/3827247/fd942521-efc9-4ffb-8e82-a59f3a1a5947)
 
 Computer Specs:
-![image](https://github.com/machado-rev/python311-count-billion/assets/3827247/9c118881-ab2f-4396-968c-ab912e41724d)
+![image](https://github.com/machado-rev/python311-count-billion/assets/3827247/683dc57f-376d-4c0d-af62-abac0a5f6a79)
 
 
 The tests for both cases!
